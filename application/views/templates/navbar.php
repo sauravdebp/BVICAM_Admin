@@ -74,16 +74,9 @@
             </button>
             <a class="navbar-brand" href="#">Project name</a>
         </div>
-        <div class="navbar-collapse collapse">
+
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="#">Dashboard</a></li>
-                <li><a href="#">Settings</a></li>
-                <li><a href="#">Profile</a></li>
-                <li><a href="#">Help</a></li>
+                <li><button type="button" class="btn navbar-btn btn-danger"><span class="glyphicon glyphicon-contact"></span>Logout</button> </li>
             </ul>
-            <form class="navbar-form navbar-right">
-                <input type="text" class="form-control" placeholder="Search...">
-            </form>
-        </div>
     </div>
 </div>

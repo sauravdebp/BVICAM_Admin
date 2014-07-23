@@ -1,10 +1,19 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: Kisholoy
- * Date: 7/23/14
- * Time: 10:01 AM
- */
-
-?>
-<h1>This is test header1</h1>
+<html>
+<head lang="en">
+    <title>INDIACom 2015</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <link rel="stylesheet" href= "/<?php echo PATH ?>assets/css/bootstrap.css">
+    <link rel="stylesheet" href="/<?php echo PATH ?>assets/css/siteStyle.css">
+    <link rel="stylesheet" href="/<?php echo PATH ?>assets/css/textStyle.css">
+    <link rel="stylesheet" href="/<?php echo PATH ?>assets/css/dashboard.css">
+    <script src="/<?php echo PATH ?>assets/js/bootstrap.js"></script>
+    <style type="text/css"></style>
+    <script src="/<?php echo PATH ?>assets/js/jquery.min.js"></script>
+    <script src="/<?php echo PATH ?>assets/js/bootstrap.min.js"></script>
+</head>
+<body>
+<div class="container-fluid">
+    <?php
+    include(dirname(__FILE__) . "/../templates/navbar.php");
+    ?>

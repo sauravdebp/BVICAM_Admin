@@ -10,10 +10,8 @@
                         <button class="btn btn-success btn-block" type="submit">Sign in</button>
                     </div>
                     <div class="col-md-6">
-
                         <button class="btn btn-danger btn-block" type="submit">Forgot Password</button>
                     </div>
-
                 </div>
             </form>
         </div>

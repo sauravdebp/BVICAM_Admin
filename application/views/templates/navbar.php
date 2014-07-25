@@ -72,11 +72,12 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">Project name</a>
+            <a class="navbar-brand" href="#">BVICAM Admin System</a>
         </div>
-
+        <div class="container">
             <ul class="nav navbar-nav navbar-right">
                 <li><button type="button" class="btn navbar-btn btn-danger"><span class="glyphicon glyphicon-contact"></span>Logout</button> </li>
             </ul>
+        </div>
     </div>
 </div>
